@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Text-As-Data eScience Special Interest Group
 
-You can use the [editor on GitHub](https://github.com/woodsp/text-as-data/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Text is a ubiquitous and valued data source in the computer and information sciences, many areas of the natural and social sciences, engineering, business and more.  This eScience Special Interest Group is for students, faculty and researchers interested in sharing and learning about UW research and teaching that uses text as data. The group’s objectives include:
+- Promote connections, conversations and collaborations among domains with text-as-data interests on the UW campus
+- Provide a forum for sharing research and receiving feedback
+- Learn about new research advances, data, and funding opportunities
+- Provide a forum discussing teaching resources and pedagogy
+- Discuss methods and software tools for processing and understanding text as data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Activities
 
-```markdown
-Syntax highlighted code block
+### Spring Seminar and Discussion Group
 
-# Header 1
-## Header 2
-### Header 3
+The text-as-data discussion group is a forum for learning and and sharing information.  The bi-weekly session is for discussing research and receiving feedback on text methods, data, discoveries, and tools.
 
-- Bulleted
-- List
+Time: Alternating Wednesdays, Spring Quarter 2019
+Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 
-1. Numbered
-2. List
+| Date     | Topic     | Organizer     |
+|----------|-----------|---------------|
+| April 3  | A text reuse approach to studying behind the scenes lawmaking | John Wilkerson (Political Science) |
+| April 17 | Building Training Sets and Classifiers: Racial Discourse on Twitter | Ian Kennedy (Sociology) |
+| May 1    |           |               |
+| May 15   |           |               |
+| May 29   |           |               |
+| June 12  |           |               |
+|----------|-----------|---------------|
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Moderated Listserv
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Anyone interested in text-as-data at UW can [sign-up to receive and share information](http://mailman11.u.washington.edu/mailman/listinfo/textasdata) about research and activities on campus from textasdata@u.washington.edu.
 
-### Jekyll Themes
+### Contacts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woodsp/text-as-data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Spencer Wood (eScience Institute)
+spwood@uw.edu
 
-### Support or Contact
+John Wilkerson (Department of Political Science)
+jwilker@uw.edu
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+UW Text-as-data Listserv
+textasdata@u.washington.edu
+
