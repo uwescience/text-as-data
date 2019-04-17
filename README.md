@@ -1,4 +1,4 @@
-# Text-As-Data eScience Special Interest Group
+# Text-as-Data eScience Special Interest Group
 
 ## Summary
 
@@ -17,6 +17,7 @@ Text is a ubiquitous and valued data source in the computer and information scie
 The text-as-data discussion group is a forum for learning and and sharing information.  The bi-weekly session is for discussing research and receiving feedback on text methods, data, discoveries, and tools.
 
 Time: Alternating Wednesdays, Spring Quarter 2019
+
 Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 
 | Date     | Topic     | Organizer     |
@@ -27,7 +28,6 @@ Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 | May 15   |           |               |
 | May 29   |           |               |
 | June 12  |           |               |
-|----------|-----------|---------------|
 
 
 ### Moderated Listserv
@@ -36,12 +36,9 @@ Anyone interested in text-as-data at UW can [sign-up to receive and share inform
 
 ### Contacts
 
-Spencer Wood (eScience Institute)
-spwood@uw.edu
+Spencer Wood, eScience Institute (spwood@uw.edu)
 
-John Wilkerson (Department of Political Science)
-jwilker@uw.edu
+John Wilkerson, Department of Political Science (jwilker@uw.edu)
 
-UW Text-as-data Listserv
-textasdata@u.washington.edu
+UW Text-as-data Listserv (textasdata@u.washington.edu)
 
