@@ -24,8 +24,7 @@ Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 |----------|-----------|---------------|
 | April 3  | A text reuse approach to studying behind the scenes lawmaking | John Wilkerson (Political Science) |
 | April 17 | Building Training Sets and Classifiers: Racial Discourse on Twitter | Ian Kennedy (Sociology) |
-| May 1    | An automated chatbot for surveying back-country
-visitors to National Parks, Forests, and Wilderness Areas | Chris Haberland (Computational Linguistics) |
+| May 1    | An automated chatbot for surveying back-country visitors to National Parks, Forests, and Wilderness Areas | Chris Haberland (Computational Linguistics) |
 | May 15   | Visual Topic Modeling: A Clustering Technique for Drastically Reducing Image Annotation Tasks | Kevin Aslett (Political Science) |
 | May 29   |           |               |
 | June 12  |           |               |
