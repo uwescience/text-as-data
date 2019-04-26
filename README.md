@@ -16,7 +16,7 @@ Text is a ubiquitous and valued data source in the computer and information scie
 
 The text-as-data discussion group is a forum for learning and and sharing information.  The bi-weekly session is for discussing research and receiving feedback on text methods, data, discoveries, and tools.
 
-Time: Alternating Wednesdays, Spring Quarter 2019
+Time: 1:00 pm on alternating Wednesdays, Spring Quarter 2019
 
 Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 
@@ -24,7 +24,8 @@ Location: WRF Data Science Studio, Physics/Astronomy Tower, 6th Floor
 |----------|-----------|---------------|
 | April 3  | A text reuse approach to studying behind the scenes lawmaking | John Wilkerson (Political Science) |
 | April 17 | Building Training Sets and Classifiers: Racial Discourse on Twitter | Ian Kennedy (Sociology) |
-| May 1    |           |               |
+| May 1    | An automated chatbot for surveying back-country
+visitors to National Parks, Forests, and Wilderness Areas | Chris Haberland (Computational Linguistics) |
 | May 15   | Visual Topic Modeling: A Clustering Technique for Drastically Reducing Image Annotation Tasks | Kevin Aslett (Political Science) |
 | May 29   |           |               |
 | June 12  |           |               |
